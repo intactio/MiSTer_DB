@@ -12,7 +12,7 @@ Installed files:
 - `_Arcade/Super Dodge Ball (US).mra`
 - `_Arcade/_alternatives/_Super Dodge Ball/Nekketsu Koukou Dodgeball Bu (Japan).mra`
 
-The files come from the cores' GitHub releases. **ROMs are not included**: put your own MAME sets (`spdodgeb.zip`, `nkdodge.zip`) in `games/mame/`.
+The cores (`.rbf`) are downloaded from the cores' GitHub releases; the MRAs are kept in this repository, copied from the core repositories. **ROMs are not included**: put your own MAME sets (`spdodgeb.zip`, `nkdodge.zip`) in `games/mame/`.
 
 ## Install
 
