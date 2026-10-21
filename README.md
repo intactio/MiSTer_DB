@@ -29,6 +29,6 @@ db_url = https://raw.githubusercontent.com/intactio/MiSTer_DB/db/db.json.zip
 
 ## Support
 
-The cores are free, with nothing locked behind donations. If you enjoy them, you can support the work on [Ko-fi](https://ko-fi.com/intactio).
+The cores are free, with nothing locked behind tips. If you enjoy them, you can support the work on [Ko-fi](https://ko-fi.com/intactio).
 
 Built with [DB-Template_MiSTer](https://github.com/theypsilon/DB-Template_MiSTer) by theypsilon.
