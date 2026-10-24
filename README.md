@@ -5,14 +5,18 @@ A custom database for the [MiSTer Downloader](https://github.com/MiSTer-devel/Do
 | Core | Games | Source |
 |---|---|---|
 | Nekketsu | Super Dodge Ball (US), Nekketsu Koukou Dodgeball Bu (Japan) | [Arcade-Nekketsu_MiSTer](https://github.com/intactio/Arcade-Nekketsu_MiSTer) |
+| DragonBowl | Dragon Bowl (set 1, encrypted program), Dragon Bowl (set 2, unencrypted program) | [Arcade-DragonBowl_MiSTer](https://github.com/intactio/Arcade-DragonBowl_MiSTer) |
 
 Installed files:
 
 - `_Arcade/cores/Nekketsu_YYYYMMDD.rbf`
 - `_Arcade/Super Dodge Ball (US).mra`
 - `_Arcade/_alternatives/_Super Dodge Ball/Nekketsu Koukou Dodgeball Bu (Japan).mra`
+- `_Arcade/cores/DragonBowl_YYYYMMDD.rbf`
+- `_Arcade/Dragon Bowl (set 1, encrypted program).mra`
+- `_Arcade/_alternatives/_Dragon Bowl/Dragon Bowl (set 2, unencrypted program).mra`
 
-The cores (`.rbf`) are downloaded from the cores' GitHub releases; the MRAs are kept in this repository, copied from the core repositories. **ROMs are not included**: put your own MAME sets (`spdodgeb.zip`, `nkdodge.zip`) in `games/mame/`.
+The cores (`.rbf`) are downloaded from the cores' GitHub releases; the MRAs are kept in this repository, copied from the core repositories. **ROMs are not included**: put your own MAME sets (`spdodgeb.zip`, `nkdodge.zip`, `drgnbowl.zip`, `drgnbowla.zip`) in `games/mame/`.
 
 ## Install
 
